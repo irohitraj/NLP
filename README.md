@@ -1,2 +1,2 @@
 # NLP
-self learning of NLP. New updates coming soon
+Self Learning of NLP through Implementation.
